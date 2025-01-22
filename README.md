@@ -13,3 +13,10 @@ Hi! I'm Yuxuan.
 ### :pencil: [Recent (mostly) blog posts](https://ilikechicken.me/)
 
 - API WIP
+
+### :basketball: Fun:
+
+- 🎮 Northeastern Esports Collegiate, competitive Overwatch player
+- :musical_keyboard: Piano player (Intermediate and above), Music in general
+- 🎲 Boardgames! (Blood on the Clocktower, poker)
+- 🎥 Shows (Suits, Lincoln lawyer, Arcane)
