@@ -1,9 +1,11 @@
 Hi! I'm Yuxuan.
 
+<!--
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=yuxuan-steve-han&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=yuxuan-steve-han&show_icons=true">
 </picture>
+!-->
 
 -   :pencil2: TypeScript / React / Python / Java
 -   :seedling: Studying CS + Game Dev at *Northeastern University*
