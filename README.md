@@ -8,13 +8,11 @@ Hi! I'm Yuxuan.
 !-->
 
 -   :pencil2: TypeScript / React / Python / Java
--   :seedling: Studying CS + Game Dev at *Northeastern University*
+-   :seedling: Studying CS + Criminal Justice at *Northeastern University*
 -   :thought_balloon: Ask me anything through my email!
 -   :globe_with_meridians: [Blog Repo](https://www.linkedin.com/in/yuxuan-steve-han/)
   
-### :pencil: [Recent (mostly) blog posts](https://ilikechicken.me/)
-
-- API WIP
+### :pencil: [Portfolio](https://ilikechicken.me/)
 
 ### :basketball: Fun:
 
